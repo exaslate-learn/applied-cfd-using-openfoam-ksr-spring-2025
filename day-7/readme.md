@@ -1,4 +1,4 @@
-Exercise - 7: OpenFOAM: Numerical Solution to Diffusion Equation
+Project - 1: OpenFOAM: Numerical Solution to Diffusion Equation
 
 * solver
   * Run 'wmake' command inside 'diffusionSolver'
